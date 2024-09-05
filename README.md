@@ -1,8 +1,8 @@
 # Lunch & Learn Edge Delivery Services Demo
 
 ## Environments
-- Preview: https://main--ensembledotcom--GITHUB scherneff.aem.page/
-- Live: https://main--ensembledotcom--GITHUB scherneff.aem.live/
+- Preview: https://main--ensembledotcom--scherneff.aem.page/
+- Live: https://main--ensembledotcom--scherneff.aem.live/ 
 
 ## Installation
 
